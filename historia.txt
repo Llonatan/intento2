@@ -1,0 +1,5 @@
+Un commit atómico o consolidado atómico es un concepto implementado en los modernos sistemas de control de versiones que permite 
+
+realizar la consolidación o commit cargando a la fuente cambios en varios ficheros (llamado un conjunto de cambios o changeset) mientras 
+
+garantizan que todos los ficheros se cargan
