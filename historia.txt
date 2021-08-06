@@ -4,3 +4,5 @@ realizar la consolidación o commit cargando a la fuente cambios en varios fiche
 mientras 
 
 garantizan que todos los ficheros se cargan...
+
+cambio para comprobar si se hicieron los cambios de la llave ssh
